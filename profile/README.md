@@ -4,7 +4,6 @@ The Guild Inference Project develops open-source software for high-performance l
 
 ## Projects
 
-### Guild
-A native C++ inference engine designed to efficiently use systems with large amounts of system memory, limited GPU VRAM, and heterogeneous compute resources.
+### [Guild](https://github.com/guild-inference/Guild)
 
-https://github.com/guild-inference/Guild
+A native C++ inference engine for Mixture-of-Experts models, optimized for systems with large amounts of system memory, limited GPU VRAM, and heterogeneous compute resources.
